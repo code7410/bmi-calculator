@@ -1,0 +1,5 @@
+Enter your name: Aayan
+Weight (kg): 53
+Height (cm): 163
+Aayan, your BMI is 19.9 → Normal
+Results saved to bmi_results.txt
