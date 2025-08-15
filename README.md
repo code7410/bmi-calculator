@@ -1,5 +1,5 @@
 # 🧍 BMI Calculator
-
+ 
 A simple Python program to calculate Body Mass Index (BMI) based on user input for weight and height.  
 The program also classifies the BMI into categories (Underweight, Normal, Overweight, Obese) and saves the results to a file.
 
@@ -16,8 +16,8 @@ The program also classifies the BMI into categories (Underweight, Normal, Overwe
 - Saves the results to `bmi_results.txt`.
 
 ## 📁 Files
-- `bmi_calculator.py` — Main Python file
-- `bmi_results.txt` — Example saved results
+- 'bmi_calculator.py' — Main Python file
+- 'bmi_results.txt' — Example saved results
 
 ## 📈 What I Learned
 -  Input handling and validation
@@ -25,4 +25,4 @@ The program also classifies the BMI into categories (Underweight, Normal, Overwe
 - How to use `round()` to format output
 - File writing and basic app structure
 
-  
+✨ This is my third Python project. More coming soon!  
