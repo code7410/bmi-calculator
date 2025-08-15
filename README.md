@@ -16,8 +16,8 @@ The program also classifies the BMI into categories (Underweight, Normal, Overwe
 - Saves the results to `bmi_results.txt`.
 
 ## 📁 Files
-- 'bmi_calculator.py' — Main Python file
-- 'bmi_results.txt' — Example saved results
+- ['bmi_calculator.py](https://github.com/code7410/bmi-calculator/blob/main/bmi_calculator.py)' — Main Python file
+- ['bmi_results.txt'](https://github.com/code7410/bmi-calculator/blob/main/bmi_results.txt) — Example saved results
 
 ## 📈 What I Learned
 -  Input handling and validation
